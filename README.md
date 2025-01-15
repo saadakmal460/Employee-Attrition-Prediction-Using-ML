@@ -1,4 +1,5 @@
-# Machine Learning Classifier Comparison Project
+# Employee Attrition Prdiction using Machine Learning
+This project aims to predict employee attrition using machine learning techniques. It assists HR teams in making data-driven decisions to reduce turnover and retain talent effectively.
 
 ## Project Overview
 This project uses machine learning to predict employee attrition, helping companies identify at-risk employees. By analyzing factors like job satisfaction, leadership opportunities, and salary, the model assists HR teams in making data-driven decisions to reduce turnover and improve employee retention. The project uses algorithms such as logistic regression and decision trees for accurate predictions based on historical employee data.
